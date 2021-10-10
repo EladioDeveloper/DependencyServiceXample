@@ -18,8 +18,10 @@ vice/introduction>
 
 # Screenshots / Mi Dominicana APP
 
-
-
+![Screenshot_1633905001](https://user-images.githubusercontent.com/19848390/136714981-3c8db446-5ab1-427c-9e32-098612c00984.png)
+![image](https://user-images.githubusercontent.com/19848390/136714928-ee29cf41-df5e-4692-a714-635be353bf3e.png)
+![Screenshot_1633905045](https://user-images.githubusercontent.com/19848390/136714986-d9924549-6ecd-413e-addf-d0a319ce7fc2.png)
+![Screenshot_1633905081](https://user-images.githubusercontent.com/19848390/136714999-3ff2d339-a821-4633-9699-22c65ae92907.png)
 
 
 
