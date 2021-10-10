@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DependencyService.Views.DependencyServicePage"
+             xmlns:viewModels="clr-namespace:DependencyService.ViewModels">
+    <ContentPage.BindingContext>
+        <viewModels:DependencyServiceViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label FontSize="Title" Text="Dependency Service" />
+            <Label
+                FontSize="Large"
+                HorizontalOptions="CenterAndExpand"
+                Text="{Binding Orientation}"
+                VerticalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
